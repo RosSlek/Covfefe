@@ -16,7 +16,7 @@
 
 <img width="1907" height="997" alt="image" src="https://github.com/user-attachments/assets/ed2e0fe1-fc7c-4489-9095-7afdbc334d04" />
 
-#### • Creating DAX measures and building visuals.
+#### • Creating DAX measures and building visuals. 
 
 <img width="1852" height="812" alt="image" src="https://github.com/user-attachments/assets/784754e5-936d-42fa-9c34-0512f90dc458" />
 
