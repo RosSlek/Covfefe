@@ -7,6 +7,6 @@
 ## Final result:
 ["Covefe report"](https://github.com/RosSlek/Covfefe/raw/refs/heads/main/'Covfefe'%20report%202026%2001-08%20+%2009-12%20FC.pptx)
 ## Data creation:
-#### • First creating products, clients and prices tables in excel.
-#### • Creating fictional sales data with python ("Sales data generator.py") and saving results to PostgreSQL database and excel files.
+#### • First creating products, clients and prices tables in excel ("Data.xlsx").
+#### • Using those tables to generate fictional sales data with python ("Sales data generator.py") and saving results to PostgreSQL database and excel files.
 #### • 
