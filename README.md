@@ -5,3 +5,4 @@
 #### 2. Build P&L and sales data dashboards with PowerBI.
 #### 3. Create PowerPoint presentation with comments.
 ## Final result:
+["Covefe report"](https://github.com/RosSlek/Covfefe/raw/refs/heads/main/'Covfefe'%20report%202026%2001-08%20+%2009-12%20FC.pptx)
