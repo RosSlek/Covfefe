@@ -14,3 +14,6 @@
 #### • Collecting data from PostgreSQL database and excel ("Data.xlsx") tables.
 #### • Modeling data with Powerquery.
 #### • Creating DAX measures and building visuals.
+## Making PowerPoint presentation:
+#### • Adding PowerBI dashboards.
+#### • Adding comments.
