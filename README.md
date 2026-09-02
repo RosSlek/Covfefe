@@ -13,7 +13,14 @@
 ## PowerBI dashboards:
 #### • Collecting data from PostgreSQL database and excel ("Data.xlsx") tables.
 #### • Modeling data with Powerquery.
+
+<img width="1907" height="997" alt="image" src="https://github.com/user-attachments/assets/ed2e0fe1-fc7c-4489-9095-7afdbc334d04" />
+
 #### • Creating DAX measures and building visuals.
+
+<img width="1852" height="812" alt="image" src="https://github.com/user-attachments/assets/784754e5-936d-42fa-9c34-0512f90dc458" />
+
 ## Making PowerPoint presentation:
-#### • Adding PowerBI dashboards.
-#### • Adding comments.
+#### • Adding PowerBI dashboards and comments.
+
+<img width="1721" height="732" alt="image" src="https://github.com/user-attachments/assets/432f4a0c-89fd-4f60-bdd1-82d615401a07" />
