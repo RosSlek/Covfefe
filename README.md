@@ -9,4 +9,4 @@
 ## Data creation:
 #### • First creating products, clients and prices tables in excel ("Data.xlsx").
 #### • Using those tables to generate fictional sales data with python ("Sales data generator.py") and saving results to PostgreSQL database and excel files.
-#### • Creating budget data and "actual" operating expenses, financial activities and other results in the same excel ("Data.xlsx")
+#### • Creating "budget" data and "actual" operating expenses, financial activities and other results in the same excel ("Data.xlsx")
