@@ -6,7 +6,7 @@
 #### 3. Build P&L and sales dashboards.
 #### 4. Present insights in PowerPoint.
 ## Final result:
-["Covefe report"](https://github.com/RosSlek/Covfefe/blob/main/'Covfefe'%20report%202026%2001-08%20%2B%2009-12%20FC.pdf)
+["Covfefe report"](https://github.com/RosSlek/Covfefe/blob/main/'Covfefe'%20report%202026%2001-08%20%2B%2009-12%20FC.pdf)
 ## Data creation:
 #### • Created product, clients, and pricing tables in Excel.
 #### • Used these tables to generate fictional sales data with Python and stored the results in PostgreSQL and Excel.
