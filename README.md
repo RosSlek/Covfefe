@@ -1,12 +1,14 @@
 # Covfefe
 "Covfefe" is a fictional coffee sales company created as a portfolio project to demonstrate practical skills in data analytics and business intelligence. The project simulates a real world BI workflow, from generating sales data to building Power BI dashboards and presenting business insights.
+## Final result:
+["Covfefe report"](https://github.com/RosSlek/Covfefe/blob/main/'Covfefe'%20report%202026%2001-08%20%2B%2009-12%20FC.pdf)
+
 ## Project workflow:
 #### 1. Generate sales, budget, and actual financial data using Python and Excel.
 #### 2. Transform and model data in Power BI.
 #### 3. Build P&L and sales dashboards.
 #### 4. Present insights in PowerPoint.
-## Final result:
-["Covfefe report"](https://github.com/RosSlek/Covfefe/blob/main/'Covfefe'%20report%202026%2001-08%20%2B%2009-12%20FC.pdf)
+
 ## Data creation:
 #### • Created product, clients, and pricing tables in Excel.
 #### • Used these tables to generate fictional sales data with Python and stored the results in PostgreSQL and Excel.
