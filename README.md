@@ -8,9 +8,12 @@
 ## Final result:
 ["Covefe report"](https://github.com/RosSlek/Covfefe/blob/main/'Covfefe'%20report%202026%2001-08%20%2B%2009-12%20FC.pdf)
 ## Data creation:
-#### • First creating products, clients and prices tables in excel ("Data.xlsx").
-#### • Using those tables to generate fictional sales data with python ("Sales data generator.py") and saving results to PostgreSQL database and excel files.
-#### • Creating "budget" data and "actual" operating expenses, financial activities and other results in the same excel ("Data.xlsx")
+#### • Created product, clients, and pricing tables in Excel.
+#### • Used these tables to generate fictional sales data with python and stored the results in PostgreSQL and excel.
+#### • Created budget data and actual operating expenses, financial activities, and other financial data in Excel.
+
+<img width="1570" height="892" alt="image" src="https://github.com/user-attachments/assets/269fe083-0c74-4f94-be8c-464e46315971" />
+
 ## PowerBI dashboards:
 #### • Collecting data from PostgreSQL database and excel ("Data.xlsx") tables.
 #### • Modeling data with Powerquery.
