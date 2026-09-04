@@ -17,14 +17,15 @@
 ## PowerBI dashboards:
 #### • Collecting data from PostgreSQL database and excel.
 #### • Modeling data with Powerquery.
-##### Creating date table, star schema with 1:* relationships with dimension tables.
-
-<img width="1145" height="752" alt="image" src="https://github.com/user-attachments/assets/0d4de85b-46a8-4e8e-ab48-fcdf120baf07" />
 
 <img width="1907" height="997" alt="image" src="https://github.com/user-attachments/assets/ed2e0fe1-fc7c-4489-9095-7afdbc334d04" />
 
+#### • Creating date table, star schema with 1:* relationships with dimension tables.
+
+<img width="1145" height="752" alt="image" src="https://github.com/user-attachments/assets/0d4de85b-46a8-4e8e-ab48-fcdf120baf07" />
+
 #### • Creating DAX measures and building visuals. 
-##### Used switch function to show Euros and % values in the same matrix, advanced sorting by column
+##### Used switch function to show Euros and % values in the same matrix, advanced sorting by column to have desired order.
 
 <img width="1852" height="812" alt="image" src="https://github.com/user-attachments/assets/784754e5-936d-42fa-9c34-0512f90dc458" />
 
