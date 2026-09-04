@@ -35,6 +35,6 @@
 <img width="1336" height="746" alt="Screenshot 2026-09-04 132816" src="https://github.com/user-attachments/assets/6e02933c-5041-4b79-b40f-60c7224dee9c" />
 
 ## PowerPoint presentation:
-#### • Created a final presentation with Power BI dashboards, insights, and commentary.
+#### • Created a final presentation with Power BI dashboards and commentary.
 
 <img width="1721" height="732" alt="image" src="https://github.com/user-attachments/assets/432f4a0c-89fd-4f60-bdd1-82d615401a07" />
