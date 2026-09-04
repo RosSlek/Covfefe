@@ -24,15 +24,15 @@
 
 <img width="1145" height="752" alt="image" src="https://github.com/user-attachments/assets/0d4de85b-46a8-4e8e-ab48-fcdf120baf07" />
 
-#### • Created DAX measures and built visuals. 
-##### Used switch function and formatting measure to show € and % values in the same matrix, advanced sorting by column, conditional formatting, specialized drill through pages for clients and countries, and tooltips.
+#### • Created DAX measures and built visuals. Used switch function and formatting measure to show € and % values in the same matrix, advanced sorting by column, conditional formatting.
 
 <img width="1852" height="812" alt="image" src="https://github.com/user-attachments/assets/784754e5-936d-42fa-9c34-0512f90dc458" />
+
+#### • Specialized drill through pages for clients and countries and tooltips.
 
 <img width="1398" height="807" alt="Screenshot 2026-09-04 132642" src="https://github.com/user-attachments/assets/e3392014-69ff-4b7c-9546-9a8ecc77c679" />
 
 <img width="1336" height="746" alt="Screenshot 2026-09-04 132816" src="https://github.com/user-attachments/assets/6e02933c-5041-4b79-b40f-60c7224dee9c" />
-
 
 ## PowerPoint presentation:
 #### • Adding Power BI dashboards and comments.
