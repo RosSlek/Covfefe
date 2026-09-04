@@ -25,9 +25,14 @@
 <img width="1145" height="752" alt="image" src="https://github.com/user-attachments/assets/0d4de85b-46a8-4e8e-ab48-fcdf120baf07" />
 
 #### • Creating DAX measures and building visuals. 
-##### Used switch function to show Euros and % values in the same matrix, advanced sorting by column to have desired order.
+##### Used switch function to show Euros and % values in the same matrix, advanced sorting by column to have desired order, conditional formmating, specialised drill through pages for clients and products, tooltips.
 
 <img width="1852" height="812" alt="image" src="https://github.com/user-attachments/assets/784754e5-936d-42fa-9c34-0512f90dc458" />
+
+<img width="1398" height="807" alt="Screenshot 2026-09-04 132642" src="https://github.com/user-attachments/assets/e3392014-69ff-4b7c-9546-9a8ecc77c679" />
+
+<img width="1336" height="746" alt="Screenshot 2026-09-04 132816" src="https://github.com/user-attachments/assets/6e02933c-5041-4b79-b40f-60c7224dee9c" />
+
 
 ## PowerPoint presentation:
 #### • Adding PowerBI dashboards and comments.
