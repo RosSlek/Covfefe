@@ -14,6 +14,9 @@
 ## PowerBI dashboards:
 #### • Collecting data from PostgreSQL database and excel ("Data.xlsx") tables.
 #### • Modeling data with Powerquery.
+##### Creating date table, stating 1:* relationships with dimension tables.
+
+<img width="1145" height="752" alt="image" src="https://github.com/user-attachments/assets/0d4de85b-46a8-4e8e-ab48-fcdf120baf07" />
 
 <img width="1907" height="997" alt="image" src="https://github.com/user-attachments/assets/ed2e0fe1-fc7c-4489-9095-7afdbc334d04" />
 
