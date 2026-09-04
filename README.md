@@ -1,9 +1,10 @@
 # Covfefe
-"Covfefe" is a fictional coffee sales company created as a portfolio project to demonstrate practical skills in data analytics and business intelligence.
-## Main steps:
-#### 1. Create sales data using python.
-#### 2. Build P&L and sales data dashboards with PowerBI.
-#### 3. Create PowerPoint presentation with comments.
+"Covfefe" is a fictional coffee sales company created as a portfolio project to demonstrate practical skills in data analytics and business intelligence. The project simulates a real world BI workflow, from generating sales data to building PowerBI dashboards and presenting business insights.
+## Project workflow:
+#### 1. Generate and prepare sales data using python.
+#### 2. Transform and model data in PowerBI.
+#### 3. Build P&L and sales dashboards.
+#### 3. Present key business insights in PowerPoint.
 ## Final result:
 ["Covefe report"](https://github.com/RosSlek/Covfefe/raw/refs/heads/main/'Covfefe'%20report%202026%2001-08%20+%2009-12%20FC.pptx)
 ## Data creation:
@@ -17,7 +18,7 @@
 <img width="1907" height="997" alt="image" src="https://github.com/user-attachments/assets/ed2e0fe1-fc7c-4489-9095-7afdbc334d04" />
 
 #### • Creating DAX measures and building visuals. 
-##### Used switch function to show Euros and % values in the same matrix, advanced sorting
+##### Used switch function to show Euros and % values in the same matrix, advanced sorting by column
 
 <img width="1852" height="812" alt="image" src="https://github.com/user-attachments/assets/784754e5-936d-42fa-9c34-0512f90dc458" />
 
