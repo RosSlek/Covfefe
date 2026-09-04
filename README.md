@@ -25,7 +25,7 @@
 <img width="1145" height="752" alt="image" src="https://github.com/user-attachments/assets/0d4de85b-46a8-4e8e-ab48-fcdf120baf07" />
 
 #### • Creating DAX measures and building visuals. 
-##### Used switch function to show Euros and % values in the same matrix, advanced sorting by column to have desired order, conditional formmating, specialised drill through pages for clients and products, tooltips.
+##### Used switch function to show Euros and % values in the same matrix, formatting measures, advanced sorting by column to have desired order, conditional formmating, specialised drill through pages for clients and products, tooltips.
 
 <img width="1852" height="812" alt="image" src="https://github.com/user-attachments/assets/784754e5-936d-42fa-9c34-0512f90dc458" />
 
