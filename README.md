@@ -14,9 +14,9 @@
 
 <img width="1570" height="892" alt="image" src="https://github.com/user-attachments/assets/269fe083-0c74-4f94-be8c-464e46315971" />
 
-## PowerBI dashboards:
+## Power BI dashboards:
 #### • Collected data from PostgreSQL database and Excel.
-#### • Transformed data with Powerquery.
+#### • Transformed data with Power Query.
 
 <img width="1907" height="997" alt="image" src="https://github.com/user-attachments/assets/ed2e0fe1-fc7c-4489-9095-7afdbc334d04" />
 
@@ -24,7 +24,7 @@
 
 <img width="1145" height="752" alt="image" src="https://github.com/user-attachments/assets/0d4de85b-46a8-4e8e-ab48-fcdf120baf07" />
 
-#### • Created DAX measures and built visuals. Used switch function and formatting measure to show € and % values in the same matrix, advanced sorting by column, conditional formatting.
+#### • Created DAX measures and built visuals. Used SWITCH function and formatting measure to show € and % values in the same matrix, advanced sorting by column, conditional formatting.
 
 <img width="1852" height="812" alt="image" src="https://github.com/user-attachments/assets/784754e5-936d-42fa-9c34-0512f90dc458" />
 
