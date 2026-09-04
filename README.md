@@ -20,7 +20,7 @@
 
 <img width="1907" height="997" alt="image" src="https://github.com/user-attachments/assets/ed2e0fe1-fc7c-4489-9095-7afdbc334d04" />
 
-#### • Created a date table, star schema with 1:* relationships between dimension and fact tables.
+#### • Created a date table and star schema with 1:* relationships between dimension and fact tables.
 
 <img width="1145" height="752" alt="image" src="https://github.com/user-attachments/assets/0d4de85b-46a8-4e8e-ab48-fcdf120baf07" />
 
