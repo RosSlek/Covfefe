@@ -29,7 +29,7 @@
 
 <img width="1852" height="812" alt="image" src="https://github.com/user-attachments/assets/784754e5-936d-42fa-9c34-0512f90dc458" />
 
-## Making PowerPoint presentation:
+## PowerPoint presentation:
 #### • Adding PowerBI dashboards and comments.
 
 <img width="1721" height="732" alt="image" src="https://github.com/user-attachments/assets/432f4a0c-89fd-4f60-bdd1-82d615401a07" />
