@@ -4,7 +4,7 @@
 #### 1. Generate sales, budget, and actual financial data using python and excel.
 #### 2. Transform and model data in PowerBI.
 #### 3. Build P&L and sales dashboards.
-#### 3. Present key business insights in PowerPoint.
+#### 3. Present insights in PowerPoint.
 ## Final result:
 ["Covefe report"](https://github.com/RosSlek/Covfefe/blob/main/'Covfefe'%20report%202026%2001-08%20%2B%2009-12%20FC.pdf)
 ## Data creation:
