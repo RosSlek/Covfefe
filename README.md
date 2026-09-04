@@ -15,17 +15,17 @@
 <img width="1570" height="892" alt="image" src="https://github.com/user-attachments/assets/269fe083-0c74-4f94-be8c-464e46315971" />
 
 ## PowerBI dashboards:
-#### • Collecting data from PostgreSQL database and Excel.
-#### • Modeling data with Powerquery.
+#### • Collected data from PostgreSQL database and Excel.
+#### • Transformed data with Powerquery.
 
 <img width="1907" height="997" alt="image" src="https://github.com/user-attachments/assets/ed2e0fe1-fc7c-4489-9095-7afdbc334d04" />
 
-#### • Creating date table, star schema with 1:* relationships with dimension tables.
+#### • Created a date table, star schema with 1:* relationships between dimension and fact tables.
 
 <img width="1145" height="752" alt="image" src="https://github.com/user-attachments/assets/0d4de85b-46a8-4e8e-ab48-fcdf120baf07" />
 
-#### • Creating DAX measures and building visuals. 
-##### Used switch function to show Euros and % values in the same matrix, formatting measures, advanced sorting by column to have desired order, conditional formatting, specialised drill through pages for clients and products, tooltips.
+#### • Created DAX measures and built visuals. 
+##### Used switch function and formatting measure to show € and % values in the same matrix, advanced sorting by column, conditional formatting, specialized drill through pages for clients and countries, and tooltips.
 
 <img width="1852" height="812" alt="image" src="https://github.com/user-attachments/assets/784754e5-936d-42fa-9c34-0512f90dc458" />
 
